@@ -3,6 +3,6 @@
     <NuxtWelcome />
   </div>
   <div>
-  This page has been changed to trigger a commit.
+  This page has been changed for a second time to generate a pr
   </div>
 </template>
